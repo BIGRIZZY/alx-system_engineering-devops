@@ -1,1 +1,1 @@
-hello world script
+Shell redirection

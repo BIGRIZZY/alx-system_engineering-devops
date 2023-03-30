@@ -1,1 +1,1 @@
-README.md
+Command to create an alias
